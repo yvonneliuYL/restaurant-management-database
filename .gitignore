@@ -1,0 +1,8 @@
+# OS / editor
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+~$*
+
+# Local secrets (the notebook reads DB_PASSWORD from the environment)
+.env

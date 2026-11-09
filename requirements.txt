@@ -1,0 +1,6 @@
+# Python application (python/application_in_python.ipynb)
+mysql-connector-python
+SQLAlchemy
+pandas
+matplotlib>=3.4   # plt.bar_label
+jupyter
